@@ -4,7 +4,7 @@ import { Button } from './Button';
 import './HeroSection.css';
 import Le188Promo from './images/Le188-1.jpeg'; 
 
-function HeroSection() {
+function HeroSection() { 
   return (
     <div className='hero-container'>
         {/* <video src={HongKongPromo} autoPlay loop muted /> */}
